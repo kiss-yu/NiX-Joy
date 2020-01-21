@@ -6,8 +6,55 @@ NiX-Joy 的技术分享资料
 
 <blockquote>
 <details>
+    <summary>2019</summary>
+    <blockquote>
+      <details>
+          <summary>01</summary>
+          <blockquote>
+              <a href="java/synchronized的升级/synchronized.md">synchronied的升级</a>
+          </blockquote>
+      </details>
+      <details>
+          <summary>02</summary>
+          <blockquote>
+              <a href="Search\Elasticsearch\elasticsearch · 入门.md">elasticsearch入门</a>
+          </blockquote>
+      </details> 
+      <details>
+          <summary>03</summary>
+          <blockquote>
+              <a href="java/布隆过滤器/布隆过滤器.md">布隆过滤器</a>
+          </blockquote>
+          <blockquote>
+              <a href="database/数据库索引/index.md">数据库索引</a>
+          </blockquote>
+      </details>
+      <details>
+          <summary>04</summary>
+          <blockquote>
+              <a href="data-structure\查找树\查找树.md">查找树</a>
+          </blockquote>
+      </details>
+      <details>
+          <summary>06</summary>
+          <blockquote>
+              <a href="distribution/zookeeper实现分布式锁/zookeeper实现分布式锁.md">zookeeper实现分布式锁</a>
+          </blockquote>
+          <blockquote>
+              <a href="algorithm/NeuralNetwork/NeuralNetwork.md">神经网络</a>
+          </blockquote>
+      </details>
+    </blockquote>
+</details>
+<details>
     <summary>2018</summary>
     <blockquote>
+        <details>
+            <summary>05</summary>
+            <blockquote>
+                <a href="java/java内存解析/Java内存解析.md">java 内存解析</a>
+            </blockquote>
+        </details> 
         <details>
             <summary>06</summary>
             <blockquote>
@@ -18,23 +65,90 @@ NiX-Joy 的技术分享资料
             </blockquote>
         </details>
         <details>
-            <summary>05</summary>
+            <summary>09</summary>
             <blockquote>
-                <a href="java/java内存解析">java 内存解析</a>
+                <a href="GA/贝叶斯思维/贝叶斯入门.md">贝叶斯入门</a>
             </blockquote>
-        </details> 
-     </blockquote>
+            <blockquote>
+                <a href="android/异步消息处理机制与android服务/异步消息处理机制与Android服务.md">异步消息处理机制与Android服务</a>
+            </blockquote>
+            <blockquote>
+                <a href="java/web请求过程/深入web请求过程.md">深入web请求过程</a>
+            </blockquote>
+            <blockquote>
+                <a href="network/HTTP&HTTPS/HTTP&HTTPS.md">HTTP&HTTPS</a>
+            </blockquote>
+        </details>
+        <details>
+            <summary>10</summary>
+            <blockquote>
+                <a href="java/NIO入门/NIO 概述.md">NIO 概述</a>
+            </blockquote>
+            <blockquote>
+                <a href="java/servlet重定向问题/Servlet重定向问题.md">Servlet重定向问题</a>
+            </blockquote>
+            <blockquote>
+                <a href="GA/贝叶斯网络与神经网络/BayesNetwork.md">贝叶斯网络</a>
+            </blockquote>
+            <blockquote>
+                <a href="GA/knapsackProblem/KnapsackProblem.md">背包问题</a>
+            </blockquote>
+		      	<blockquote>
+                <a href="java/GC/GCmd.md">GC垃圾回收器</a>
+            </blockquote>
+            <blockquote>
+                <a href="Linux/Linux间进程通信/Linux间进程通信.md">Linux间进程通信</a>
+            </blockquote>
+            <blockquote>
+                <a href="js/JS预编译过程.md">JS预编译过程</a>
+            </blockquote>
+        </details>
+        <details>
+            <summary>11</summary> 
+            <blockquote>
+                <a href="algorithm\KMP\KMP.md">kmp</a>
+            </blockquote>
+            <blockquote>
+                <a href="GA\遗传算法\GeneticAlgorithms.md">遗传算法</a>
+            </blockquote>
+			      <blockquote>
+                <a href="GA\分支界限法\分支界限法.md">分支界限法</a>
+            </blockquote>
+        </details>
+        <details>
+            <summary>12</summary>
+            <blockquote>
+                <a href="java/java2ee/JAVAEE_NORM.md">javaee规范</a>
+            </blockquote>
+            <blockquote>
+                <a href="java/spring/SPRING_IOC.md">springIOC</a>
+            </blockquote>
+            <blockquote>
+                <a href="java/并发/浅析volitile.md">浅析volatile</a>
+            </blockquote>
+            <blockquote>
+                <a href="js/JS数组(改变原数组的方法).md">JS数组(改变原数组的方法)</a>
+            </blockquote>
+            <blockquote>
+                <a href="network/UDP_TCP/UDP_TCP.md">UDP_TCP</a>
+            </blockquote>
+			      <blockquote>
+                <a href="java/类加载与双亲委派模式/Java类加载与双亲委派模式.md">Java类加载与双亲委派模式</a>
+            </blockquote>
+        </details>
+	</blockquote>
 </details>
+  
 <details>
-    <summary>2017</summary>
-    <blockquote>
-    <details>
-        <summary>05</summary>
-        <blockquote>
-            <a href="markdown/Markdown基础.md">Markdown 基础</a>
-        </blockquote>
-    </details>
-    </blockquote>
+  <summary>2017</summary>
+  <blockquote>
+      <details>
+          <summary>05</summary>
+          <blockquote>
+              <a href="markdown/Markdown基础.md">Markdown 基础</a>
+          </blockquote>
+      </details>
+  </blockquote>
 </details>
 </blockquote>
 
